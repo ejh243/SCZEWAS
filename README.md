@@ -4,12 +4,12 @@ This respository contains scripts for our DNA methylation association analyses o
 
 ## Phase 1 Citation 
 
-(Hannon, E., Dempster, E., Viana, J. et al. An integrated genetic-epigenetic analysis of schizophrenia: evidence for co-localization of genetic associations and differential DNA methylation. Genome Biol 17, 176 (2016). https://doi.org/10.1186/s13059-016-1041-x)[https://doi.org/10.1186/s13059-016-1041-x]
+(Hannon, E., Dempster, E., Viana, J. et al. An integrated genetic-epigenetic analysis of schizophrenia: evidence for co-localization of genetic associations and differential DNA methylation. Genome Biol 17, 176 (2016).)[https://doi.org/10.1186/s13059-016-1041-x)[https://doi.org/10.1186/s13059-016-1041-x]
 
 ## Phase 2 Citation
 (Large-scale analysis of DNA methylation identifies cellular alterations in blood from psychosis patients and molecular biomarkers of treatment-resistant schizophrenia
 Eilis Hannon, Emma L Dempster, Georgina Mansell, Joe Burrage, Nick Bass, Marc M Bohlken, Aiden Corvin, Charles J Curtis, David Dempster, Marta Di Forta, Timothy G Dinan, Gary Donohoe, Fiona Gaughran, Michael Gill, Amy Gillespie, Cerisse Gunasinghe, Hilleke E Hulshoff, Christina M Hultman, Viktoria Johansson, Rene S Kahn, Jaakko Kaprio, Gunter Kenis, Kaarina Kowalec, James MacCabe, Colm McDonald, Andew McQuillin, Derek W Morris, Kieran C Murphy, Collette Mustard, Igor Nenadic, Michael C O’Donovan, Diego Quattrone, Alexander L Richards, Bart PF Rutten, David St Clair, Sebastian Therman, Timothea Toulopoulou, Jim Van Os, John L Waddington, Wellcome Trust Case Control Consortium 2, CRESTAR consortium, Patrick Sullivan, Gerome Breen, David Andrew Collier, Robin Murray, Leonard S Schalkwyk, Jonathan Mill
-bioRxiv 2020.04.05.026211; doi: https://doi.org/10.1101/2020.04.05.026211)[https://doi.org/10.1101/2020.04.05.026211]
+bioRxiv 2020.04.05.026211)[doi: https://doi.org/10.1101/2020.04.05.026211)[https://doi.org/10.1101/2020.04.05.026211]
 
 ## Abstract (Phase 1)
 
